@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lijinwilson&label=Profile%20views&color=0e75b6&style=flat" alt="lijinwilson" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lijinwilson" alt="lijinwilson" /></a> </p>
-
 - 🔭 I’m currently learning **Verilog, Perl, C**
 
 - 🌱 I’m also have knowledge in front end web development **Angular Js, React Js, Next Js**
