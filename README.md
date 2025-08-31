@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Lijin Wilson</h1>
-<h3 align="center">A passionate frontend developer from India, Highly motivated and growth-oriented Front End Developer with a passion for continuous learning and development. Possessing a proven ability to rapidly grasp new concepts and technologies through self-study, with a strong mindset dedicated to personal and professional growth. Adept at managing teams effectively, fostering collaboration, and coordinating tasks to ensure project success. Known for excellent interpersonal skills, fostering positive working relationships, and maintaining open lines of communication. Excels in problem-solving, adapting to new challenges, and leveraging innovative solutions to drive projects forward. Committed to achieving excellence in both individual contributions and team dynamics, with a relentless drive to exceed expectations and deliver high-quality results.</h3>
+<h3 align="center">A passionate VLSI Engineer from India, highly motivated and growth-oriented with a strong drive for continuous learning and innovation in semiconductor design. Possessing proven ability to quickly grasp advanced VLSI concepts and EDA tools through self-study and hands-on projects, with a mindset dedicated to technical and professional growth. Skilled in managing complex design tasks, fostering collaboration, and coordinating effectively within teams to ensure project success. Known for excellent analytical and problem-solving skills, adaptability to new challenges, and applying innovative solutions in digital, analog, and mixed-signal design. Adept at using industry-standard tools such as Cadence Virtuoso, Xilinx Vivado, Visual TCAD, and Verilog/SystemVerilog for design and verification. Committed to achieving excellence in both individual contributions and team dynamics, with a relentless focus on delivering efficient, high-quality, and reliable VLSI solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lijinwilson&label=Profile%20views&color=0e75b6&style=flat" alt="lijinwilson" /> </p>
 
-- 🔭 I’m currently learning **Verilog, Perl, C**
+- 🔭 I’m currently learning **Verilog, Perl, C, Python**
 
-- 🌱 I’m also have knowledge in front end web development **Angular Js, React Js, Next Js**
+- 🌱 I'm having hand on experience in Cadence (Virtuoso, Assura), Xilinx Vivado, Visual TCAD**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
-- 💬 Ask me about **Angular Js, React Js, Next Js**
+- 💬 Ask me about **(Virtuoso, Assura), Xilinx Vivado, Visual TCAD**
 
 - 📫 How to reach me **lijinwilson2018@gmail.com**
 
